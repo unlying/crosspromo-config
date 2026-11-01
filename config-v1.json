@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "ttlSeconds": 21600,
+  "stores": {
+    "googleplay": {
+      "packageName": "com.debia.sostavslova",
+      "bundleId": "com.debia.sostavslova",
+      "appStoreId": "660175675",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/98/0d/fb980dd8-52e0-12f0-405a-81de72f805ac/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg",
+      "name": "Составь слова",
+      "url": "https://play.google.com/store/apps/details?id=com.debia.sostavslova"
+    },
+    "rustore": {
+      "packageName": "com.debia.sostavslova",
+      "bundleId": "com.debia.sostavslova",
+      "appStoreId": "660175675",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/98/0d/fb980dd8-52e0-12f0-405a-81de72f805ac/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg",
+      "name": "Составь слово: слова из букв",
+      "url": "https://www.rustore.ru/catalog/app/com.debia.sostavslova"
+    },
+    "appstore": {
+      "packageName": "com.debia.sostavslova",
+      "bundleId": "com.debia.sostavslova",
+      "appStoreId": "660175675",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/98/0d/fb980dd8-52e0-12f0-405a-81de72f805ac/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg",
+      "name": "Составь слова из длинных слов",
+      "url": "https://apps.apple.com/app/id660175675"
+    }
+  }
+}
