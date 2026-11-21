@@ -3,32 +3,136 @@
   "ttlSeconds": 21600,
   "apps": [
     {
-      "id": "com.debia.antonyms",
-      "title": "Антонимы: два слова",
-      "desc": "",
-      "emoji": "🎮",
-      "icon": "https://play-lh.googleusercontent.com/pNjj91SBh5YsK5r9yWRNzW8V6iWI8H_rVSodVCCWZ6SHaoK8q2LwEcDy-IXouzvH3AbTEKas7spBxOOAMVXKwQ=s256",
+      "id": "ru.debia.prodcalendar",
+      "title": "Рабочий календарь РФ 2026/2027",
+      "desc": "Рабочие дни, нормы часов, короткие дни",
+      "emoji": "📅",
+      "icon": "https://play-lh.googleusercontent.com/iIWxLu6jSQdYWIjEg8gZGgjvDvvEIRE3ZBsEgv7X0gTPXaPCYxSMmEb-otMkuintYGx5h2qDKXEiiHJEtpRASA=s256",
       "status": "published",
       "stores": {
-        "googlePlay": "https://play.google.com/store/apps/details?id=com.debia.antonyms",
-        "appStore": "https://apps.apple.com/app/id660186152"
+        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.prodcalendar"
       }
     },
     {
-      "id": "com.debia.antonyms2",
-      "title": "Антонимы 2: два слова",
-      "desc": "",
-      "emoji": "🎮",
-      "icon": "https://play-lh.googleusercontent.com/ifRjRI_AdHnDyuXCeOjQuZ8woILrA2aGWJlY5q-ewD96JuH8pFqn2eSK9EX_zvYbagHc3o3iCbzFqcbW-FOhivU=s256",
+      "id": "com.debia.sostavslovaplus",
+      "title": "Составь Слова+: игра из букв",
+      "desc": "Слова из 9 букв, рейтинг и рекорды",
+      "emoji": "🍎",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple60/v4/c6/62/92/c6629277-3706-7d26-5da9-11cc191a3b25/mzm.aeoduljk.jpg/512x512bb.jpg",
       "status": "published",
       "stores": {
-        "googlePlay": "https://play.google.com/store/apps/details?id=com.debia.antonyms2"
+        "appStore": "https://apps.apple.com/app/id698223593"
+      }
+    },
+    {
+      "id": "com.debia.rebusisto",
+      "title": "100 Ребусов: загадки и слова",
+      "desc": "Красочные ребусы в картинках для всей семьи",
+      "emoji": "🎮",
+      "icon": "https://play-lh.googleusercontent.com/f4BHPeHNEN3pwrY5EwxskCEXiRmID9ZdNUfvnxIJ-BgWlPPmKASFx58YpTX3GHooRn37mXlDG9ou8VCdyLp7meA=s256",
+      "status": "published",
+      "stores": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.debia.rebusisto",
+        "ruStore": "https://www.rustore.ru/catalog/app/com.debia.rebusisto",
+        "appStore": "https://apps.apple.com/app/id652697305"
+      }
+    },
+    {
+      "id": "com.debia.hundred",
+      "title": "100 Вопросов: сто ответов",
+      "desc": "Угадай 6 самых популярных ответов на вопрос",
+      "emoji": "🎮",
+      "icon": "https://play-lh.googleusercontent.com/qe1WOjvgPw331cg34PzR5RMaWeFTQqEGVFNFXvN-OOtRffTFxvjEAaD1-VnsW7bLMLtaW1P1pPV5QcKEBMNd=s256",
+      "status": "published",
+      "stores": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.debia.hundred",
+        "appStore": "https://apps.apple.com/app/id1031363107"
+      }
+    },
+    {
+      "id": "com.debia.udarenie",
+      "title": "Ударение в словах: тест ЕГЭ",
+      "desc": "Тренажёр орфоэпии и ударений на русском",
+      "emoji": "🎮",
+      "icon": "https://play-lh.googleusercontent.com/ZkmIWrEnCANqwnIHst0ZdO7lwKHSrxg0-8lDm6hw_8o2L6Cj8B07Qq0S6VyWQNkBnc1q32c6GAHvxgTLXUN1=s256",
+      "status": "published",
+      "stores": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.debia.udarenie",
+        "appStore": "https://apps.apple.com/app/id924025914"
+      }
+    },
+    {
+      "id": "ru.debia.dreambook",
+      "title": "Сонник — толкование снов",
+      "desc": "Толкование снов по 1000 словам",
+      "emoji": "🛌",
+      "icon": "https://play-lh.googleusercontent.com/vNQr3YOuF4Kr40Z5_9LtNjAa4C4MMui_mTK5fgbLWApVMVPA0-fR89H8KQ2yg0RM-2e-I65c5qicoz04m42I4Q=s256",
+      "status": "published",
+      "stores": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.dreambook"
+      }
+    },
+    {
+      "id": "com.debia.pdd2017",
+      "title": "Билеты ПДД 2026–2027: экзамен",
+      "desc": "40 билетов, 800 вопросов и разбор ошибок",
+      "emoji": "🍎",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/76/ca/d5/76cad5ca-598a-d2b6-5977-bdf19781f43f/AppIcon-1x_U007emarketing-0-85-220-0-5.png/512x512bb.jpg",
+      "status": "published",
+      "stores": {
+        "appStore": "https://apps.apple.com/app/id1161735204"
+      }
+    },
+    {
+      "id": "ru.debia.greetingcards",
+      "title": "Открытки с новым годом 2027",
+      "desc": "Открытки на все праздники со своим текстом",
+      "emoji": "🎁",
+      "icon": "https://play-lh.googleusercontent.com/Nj0p7wXu8blvoX453lSkOK1c9IldEVfh1UehuHIrbpxPq0dt7Tdf5QwtIRUnWyeYCm203l04tXVQxPB9-twyuQ=s256",
+      "status": "published",
+      "stores": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.greetingcards"
+      }
+    },
+    {
+      "id": "ru.debia.orthodoxcalendar",
+      "title": "Православный календарь 2027",
+      "desc": "Посты, праздники, трапезы на каждый день",
+      "emoji": "⛪",
+      "icon": "https://play-lh.googleusercontent.com/uAXdNwCcLy0qLIb5h3qXGm5GGeksfV1O8uPcF7LkvhpBDGNJC2yjJY2ZIBRBFxnrUxnrrkvDqqDMTjuGznoG8Co=s256",
+      "status": "published",
+      "stores": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.orthodoxcalendar"
+      }
+    },
+    {
+      "id": "com.debia.trueorfalse",
+      "title": "Правда или ложь: викторина",
+      "desc": "Удивительные факты, вопросы и объяснения",
+      "emoji": "🎮",
+      "icon": "https://play-lh.googleusercontent.com/PFXokARpyVQ7hZMfXIOO-cXn6N7SXoJfk-CtPNyln4euxCcp4kuV8rkkZeOZDtRpOu8c9SHmIBIOYXml5vnksA=s256",
+      "status": "published",
+      "stores": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.debia.trueorfalse",
+        "ruStore": "https://www.rustore.ru/catalog/app/com.debia.trueorfalse",
+        "appStore": "https://apps.apple.com/app/id1204929564"
+      }
+    },
+    {
+      "id": "ru.debia.hangmanru",
+      "title": "Виселица: угадай слово",
+      "desc": "Угадай слово по категориям",
+      "emoji": "🪢",
+      "icon": "https://play-lh.googleusercontent.com/rqIRWtJ-yzfjFyiVoju81arMVwzSEOLJZAD-gSnJhC4nC4yKr_rChfDX5gjES9aZ6YGHZIAIUcnGckHySVM7DcI=s256",
+      "status": "published",
+      "stores": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.hangmanru"
       }
     },
     {
       "id": "com.debia.associate",
-      "title": "Ассоциации",
-      "desc": "",
+      "title": "Ассоциации: найди слово",
+      "desc": "Угадай слово по 4 подсказкам-ассоциациям",
       "emoji": "🎮",
       "icon": "https://play-lh.googleusercontent.com/IEoPj9feepTbd__26khXoisIGwU6w2wnZKBcSgDcuPcY7m3HkF6--DTO2WyZb3XencvB3S9DZFEP6iWqkumA=s256",
       "status": "published",
@@ -38,9 +142,45 @@
       }
     },
     {
+      "id": "com.debia.antonyms",
+      "title": "Антонимы: два слова",
+      "desc": "Два фото — два противоположных слова",
+      "emoji": "🎮",
+      "icon": "https://play-lh.googleusercontent.com/pNjj91SBh5YsK5r9yWRNzW8V6iWI8H_rVSodVCCWZ6SHaoK8q2LwEcDy-IXouzvH3AbTEKas7spBxOOAMVXKwQ=s256",
+      "status": "published",
+      "stores": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.debia.antonyms",
+        "appStore": "https://apps.apple.com/app/id660186152"
+      }
+    },
+    {
+      "id": "com.debia.sostavslova",
+      "title": "Составь слова: игра из букв",
+      "desc": "Составляйте слова из длинного слова офлайн",
+      "emoji": "🎮",
+      "icon": "https://play-lh.googleusercontent.com/6PgMPsjQWyojeSJW00TnLFT6_xMRiKG1MUmtDOiVIzz0p2XyrQq8QNNLWQDP-QvTIwoJm3VoJEDB7GAhsLdNCw=s256",
+      "status": "published",
+      "stores": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.debia.sostavslova",
+        "ruStore": "https://www.rustore.ru/catalog/app/com.debia.sostavslova",
+        "appStore": "https://apps.apple.com/app/id660175675"
+      }
+    },
+    {
+      "id": "com.debia.antonyms2",
+      "title": "Антонимы 2: два слова",
+      "desc": "Новые пары противоположных слов по фото",
+      "emoji": "🎮",
+      "icon": "https://play-lh.googleusercontent.com/ifRjRI_AdHnDyuXCeOjQuZ8woILrA2aGWJlY5q-ewD96JuH8pFqn2eSK9EX_zvYbagHc3o3iCbzFqcbW-FOhivU=s256",
+      "status": "published",
+      "stores": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.debia.antonyms2"
+      }
+    },
+    {
       "id": "com.debia.associate2",
       "title": "Ассоциации 2: найди слово",
-      "desc": "",
+      "desc": "1600 новых заданий на ассоциации и логику",
       "emoji": "🎮",
       "icon": "https://play-lh.googleusercontent.com/seId855diM0EFBeMzyCJhMJYraG1v7e5nmxWwrRBN41kPSCoou4ogTI2wQvai0joUhqAlJKbMGK05fKj4MSx=s256",
       "status": "published",
@@ -51,7 +191,7 @@
     {
       "id": "com.debia.bukvopad",
       "title": "Буквопад — слова из букв",
-      "desc": "",
+      "desc": "Собирай слова из падающих букв до рекорда",
       "emoji": "🎮",
       "icon": "https://play-lh.googleusercontent.com/oR9BJlTouiGg3wQ9BbI-OFfG0sSBW-FX43bDU_9wBR0jWkpCSq1vLDxElc_5qK1Ci2Qj67WJJNiCyaWB8_ZO7g=s256",
       "status": "published",
@@ -63,8 +203,8 @@
     },
     {
       "id": "com.debia.cashback",
-      "title": "Кешбек: трекер кешбэка карт",
-      "desc": "",
+      "title": "Кешбек: трекер карт",
+      "desc": "Помощник по категориям кэшбэка всех банков",
       "emoji": "🎮",
       "icon": "https://play-lh.googleusercontent.com/MdGMwdKpD_Zp3PfYPmM0ruom4h-cgumb-AqxEtBkvh4wzLKB_fedTGkfelq2iUrqQfNTKzUSIReeRG-dVVSI7A=s256",
       "status": "published",
@@ -75,8 +215,8 @@
     },
     {
       "id": "com.debia.fiftycolors",
-      "title": "50 Colors: Guess the Shade",
-      "desc": "",
+      "title": "50 Оттенков: Угадай Цвет",
+      "desc": "Проверь цветовое зрение на 50 оттенках",
       "emoji": "🎮",
       "icon": "https://play-lh.googleusercontent.com/r5RvMnIeFBliTtXKSrh9itlR1CqtmKfAFwDvaXbpClr2idJwisyhTqyt_D4rsf9gJCLTJjXaNLnLC29fDed-3g=s256",
       "status": "published",
@@ -86,8 +226,8 @@
     },
     {
       "id": "com.debia.findword",
-      "title": "Найди слово: поиск на поле",
-      "desc": "",
+      "title": "Найди слово: поиск из букв",
+      "desc": "Соединяй соседние буквы на поле — 8 языков",
       "emoji": "🎮",
       "icon": "https://play-lh.googleusercontent.com/YXxOGqIS4iTJQ3Ou6haxO1zDJ0JRb5kIwd3qU6xbl3RCjdTMZQxjSEE4VzjoAj0EHhui-LvUZ2w--pOfDvWFvQ=s256",
       "status": "published",
@@ -98,8 +238,8 @@
     },
     {
       "id": "com.debia.findword2",
-      "title": "Where Are the Words?",
-      "desc": "",
+      "title": "Где слова? Поиск на время",
+      "desc": "Динамичный филворд на скорость и внимание",
       "emoji": "🎮",
       "icon": "https://play-lh.googleusercontent.com/PR69jRTG6-uBkxWY4usy662v8iNiJyYsk7w6huc9fQuu5evVNGfd9b6QSBfnvdlhzVRwSoKsQ8KJ7ETCHX7vCd8=s256",
       "status": "published",
@@ -110,7 +250,7 @@
     {
       "id": "com.debia.flappy2048",
       "title": "Flappy 2048: Cube Flight",
-      "desc": "",
+      "desc": "Аркада на реакцию и слияние чисел",
       "emoji": "🎮",
       "icon": "https://play-lh.googleusercontent.com/axf2sbyLFszq0Xh2-HGtw2lskwN3brAXP62RmLFaBS9_YYCcDeV7wIhJ480Iraf3DTWEmxX9DSHQGVAgUWF3Vg=s256",
       "status": "published",
@@ -122,7 +262,7 @@
     {
       "id": "com.debia.flippycube",
       "title": "Flippy Cube: Forest Flight",
-      "desc": "",
+      "desc": "Динамичная аркада одним касанием",
       "emoji": "🎮",
       "icon": "https://play-lh.googleusercontent.com/o9hSwn-J-sjhhZNeF_tagEHl_wDvs6kR2-6iJ6zSuCKg86AhpxfJ8aG8tVxx7r_9kI1Qz6sSsZwwAv5Razg55A=s256",
       "status": "published",
@@ -133,8 +273,8 @@
     },
     {
       "id": "com.debia.fourzdjecie1slowo",
-      "title": "4 Zdjęcie 1 Słowo",
-      "desc": "",
+      "title": "4 Zdjęcia 1 Słowo",
+      "desc": "Klasyczna gra słowna ze zdjęciami",
       "emoji": "🎮",
       "icon": "https://play-lh.googleusercontent.com/frcrBLDYf-WDwOLaiSF6n972N4pc--YgcG3A6bahOegx5FzeqODqWDW5KD91UKSxS_20sk8IHrmMhoS_2Ef2AA=s256",
       "status": "published",
@@ -145,7 +285,7 @@
     {
       "id": "com.debia.game2048",
       "title": "2048 Super Color",
-      "desc": "",
+      "desc": "Яркая головоломка слияния чисел",
       "emoji": "🎮",
       "icon": "https://play-lh.googleusercontent.com/nb8cQU7kYRvy3q1BbEnpZqQLeRNmafqp2bmCmCBPQEdVvYZSMHpgB7Dyxn4m7QpRw08Bdax066q0loqE35Sf=s256",
       "status": "published",
@@ -156,7 +296,7 @@
     {
       "id": "com.debia.guessanimal",
       "title": "Угадай животное",
-      "desc": "",
+      "desc": "Фото-викторина про животных мира",
       "emoji": "🎮",
       "icon": "https://play-lh.googleusercontent.com/jrSQoXKPlX0z08LstB-AKr3K0dVeMIBXkQOHGKlMhqrmOUF2bPFMRaBISP5WyHm2eiyFSyShZQTpKqDwNeUktUU=s256",
       "status": "published",
@@ -166,20 +306,9 @@
       }
     },
     {
-      "id": "com.debia.guessanimal2",
-      "title": "Guess Animal 2",
-      "desc": "",
-      "emoji": "🎮",
-      "icon": "https://play-lh.googleusercontent.com/LsXi-AGOf2p4C_E6bR3NKIeKaoKryw1qNk8q4a8zBgn_mLi8BT5Mc31etb7llIxx5mrnUaidS8ilFR-xBTk02w=s256",
-      "status": "published",
-      "stores": {
-        "googlePlay": "https://play.google.com/store/apps/details?id=com.debia.guessanimal2"
-      }
-    },
-    {
       "id": "com.debia.guesscity",
-      "title": "Угадай город",
-      "desc": "",
+      "title": "Угадай город по фото",
+      "desc": "106 знаменитых городов и стран планеты",
       "emoji": "🎮",
       "icon": "https://play-lh.googleusercontent.com/M7OMf7SyODumjrq2x71JSLYg3fcu3HiAaBmGEAa4b3xvPKd9v5qmSNrxry4OeZc4yU0mwqjSba-4KQQwZqVfsw=s256",
       "status": "published",
@@ -189,20 +318,9 @@
       }
     },
     {
-      "id": "com.debia.guesscity2",
-      "title": "Guess City 2017",
-      "desc": "",
-      "emoji": "🎮",
-      "icon": "https://play-lh.googleusercontent.com/Cpol1kWpwHY5MEr5mF1buy19Xb7FE23SuWEoEXRy2XmtwkrFCQ3mdIRyiXamacLItlbZZL4dDC9Mu5vMubZ7tQ=s256",
-      "status": "published",
-      "stores": {
-        "googlePlay": "https://play.google.com/store/apps/details?id=com.debia.guesscity2"
-      }
-    },
-    {
       "id": "com.debia.guessmelody",
-      "title": "Guess Melody",
-      "desc": "",
+      "title": "Угадай мелодию",
+      "desc": "Музыкальная викторина на знание хитов",
       "emoji": "🎮",
       "icon": "https://play-lh.googleusercontent.com/Y3QwsC900jrEDLlOJGnKYU9cXCGWWS-_XyM1AJCuIto4sWziEZWBu2EHxeGj8GI7iov0O_nGkWA7AQNo1BRN=s256",
       "status": "published",
@@ -212,8 +330,8 @@
     },
     {
       "id": "com.debia.guesswho",
-      "title": "Guess who, please?",
-      "desc": "",
+      "title": "Угадай кто? Пати-игра",
+      "desc": "Весёлая игра для компании на 18 тем",
       "emoji": "🎮",
       "icon": "https://play-lh.googleusercontent.com/rMw-f6CthTd_RV_-JGEJvIJ71LAaougs3EawyAd6RjaWKyn5zQzmU9YNfPspzNORlcwWlITAt3ojaF8svuq7=s256",
       "status": "published",
@@ -223,21 +341,9 @@
       }
     },
     {
-      "id": "com.debia.hundred",
-      "title": "Сто ответов: викторина",
-      "desc": "",
-      "emoji": "🎮",
-      "icon": "https://play-lh.googleusercontent.com/qe1WOjvgPw331cg34PzR5RMaWeFTQqEGVFNFXvN-OOtRffTFxvjEAaD1-VnsW7bLMLtaW1P1pPV5QcKEBMNd=s256",
-      "status": "published",
-      "stores": {
-        "googlePlay": "https://play.google.com/store/apps/details?id=com.debia.hundred",
-        "appStore": "https://apps.apple.com/app/id1031363107"
-      }
-    },
-    {
       "id": "com.debia.letris",
       "title": "Град Букв — слова из букв",
-      "desc": "",
+      "desc": "Словесный тетрис со словарём 150 000 слов",
       "emoji": "🎮",
       "icon": "https://play-lh.googleusercontent.com/2m1_2jXX5Cy_K8UJpAuL0q4-h_u94ANEWf0-Dxkw2HBxUDtNVP8LFG1g4PAhHfBA51t72jDOI9xj8nSkdOp5Fw=s256",
       "status": "published",
@@ -246,20 +352,9 @@
       }
     },
     {
-      "id": "com.debia.limitedshots",
-      "title": "Limited Shots",
-      "desc": "",
-      "emoji": "🎮",
-      "icon": "https://play-lh.googleusercontent.com/43ECO6iIhnr0unhCtvz-V5EPGn3OxluaxXmTevvEztlcAeqRiQYly41O1k5XjARtQW9i3yF5rghhnWecyynrGg=s256",
-      "status": "published",
-      "stores": {
-        "googlePlay": "https://play.google.com/store/apps/details?id=com.debia.limitedshots"
-      }
-    },
-    {
       "id": "com.debia.metro",
-      "title": "com.debia.metro",
-      "desc": "",
+      "title": "Угадай станцию метро по фото",
+      "desc": "Фотовикторина по станциям Москвы и Питера",
       "emoji": "🎮",
       "icon": "https://play-lh.googleusercontent.com/uC8fl_mzv0Pphn-kZSInYQphjOCMjcrpBl_DVRM1Kuf9o32qGBi2ARCOzBVAy-42cnzD1VlwFmU52lIiAC_sMQ=s256",
       "status": "published",
@@ -269,33 +364,9 @@
       }
     },
     {
-      "id": "com.debia.rebusi99",
-      "title": "99 Ребусов детям и родителям",
-      "desc": "",
-      "emoji": "🎮",
-      "icon": "https://play-lh.googleusercontent.com/ieMfedPrZa12Nj3zm8lnCiXBPh86KadlxhSt2ac6b6GLmLLUSXrHGJ4T_RMnoD-08W_ngJ4VV1NLc7kOYq4ASg=s256",
-      "status": "published",
-      "stores": {
-        "googlePlay": "https://play.google.com/store/apps/details?id=com.debia.rebusi99"
-      }
-    },
-    {
-      "id": "com.debia.rebusisto",
-      "title": "100 Ребусов: игра в слова",
-      "desc": "",
-      "emoji": "🎮",
-      "icon": "https://play-lh.googleusercontent.com/f4BHPeHNEN3pwrY5EwxskCEXiRmID9ZdNUfvnxIJ-BgWlPPmKASFx58YpTX3GHooRn37mXlDG9ou8VCdyLp7meA=s256",
-      "status": "published",
-      "stores": {
-        "googlePlay": "https://play.google.com/store/apps/details?id=com.debia.rebusisto",
-        "ruStore": "https://www.rustore.ru/catalog/app/com.debia.rebusisto",
-        "appStore": "https://apps.apple.com/app/id652697305"
-      }
-    },
-    {
       "id": "com.debia.scoresheet",
-      "title": "Scoresheet App for Harmonies",
-      "desc": "",
+      "title": "Scoresheet: Harmonies & Faraway",
+      "desc": "Fast score calculator for board games",
       "emoji": "🎮",
       "icon": "https://play-lh.googleusercontent.com/g6GZw0uKn_SVrbsIa78IV4Ax49RCM_LlqX4WHEqncYgk04kB6XrYXSORmztHX7GHXOTua58kTazwl6EfeXVh=s256",
       "status": "published",
@@ -305,9 +376,31 @@
       }
     },
     {
+      "id": "com.debia.slovaonline",
+      "title": "Составь Слова: дуэль с ботом",
+      "desc": "Партии на 20 ходов против умного бота",
+      "emoji": "🍎",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/bc/96/61/bc9661ec-38f2-4602-9600-09f694a14b0c/mzl.aaejgzbd.png/512x512bb.jpg",
+      "status": "published",
+      "stores": {
+        "appStore": "https://apps.apple.com/app/id838289730"
+      }
+    },
+    {
+      "id": "com.debia.slovobor",
+      "title": "Словобор — слова из букв",
+      "desc": "Очищай поле длинными словами офлайн",
+      "emoji": "🍎",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/37/c6/b7/37c6b731-c906-87b2-954b-e776dde8fbe6/pr_source.jpg/512x512bb.jpg",
+      "status": "published",
+      "stores": {
+        "appStore": "https://apps.apple.com/app/id660176556"
+      }
+    },
+    {
       "id": "com.debia.solitaire",
-      "title": "Solitaire Card Game (Klondike)",
-      "desc": "",
+      "title": "Пасьянс «Косынка»",
+      "desc": "Классическая косынка 1 или 3 карты офлайн",
       "emoji": "🎮",
       "icon": "https://play-lh.googleusercontent.com/WB6VGMh6bwf-yyuo_4kgSiq9CN-Bw_fuFyN9ClmwiExGWVOdh8BvtQUWNWOVhWq-Mv8c5N5qTiiRUW8JYrm32A=s256",
       "status": "published",
@@ -317,22 +410,20 @@
       }
     },
     {
-      "id": "com.debia.sostavslova",
-      "title": "Составь слова",
-      "desc": "",
-      "emoji": "🎮",
-      "icon": "https://play-lh.googleusercontent.com/6PgMPsjQWyojeSJW00TnLFT6_xMRiKG1MUmtDOiVIzz0p2XyrQq8QNNLWQDP-QvTIwoJm3VoJEDB7GAhsLdNCw=s256",
+      "id": "com.debia.sostavslova3",
+      "title": "Слово в Слове — 7 букв",
+      "desc": "Классическая игра со словами из 7 букв",
+      "emoji": "🍎",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/1e/8f/2b/1e8f2bee-a36a-00d7-7084-9b321ca65e3a/mzl.huagaobj.jpg/512x512bb.jpg",
       "status": "published",
       "stores": {
-        "googlePlay": "https://play.google.com/store/apps/details?id=com.debia.sostavslova",
-        "ruStore": "https://www.rustore.ru/catalog/app/com.debia.sostavslova",
-        "appStore": "https://apps.apple.com/app/id660175675"
+        "appStore": "https://apps.apple.com/app/id793141180"
       }
     },
     {
       "id": "com.debia.sudoku",
       "title": "Судоку для всех",
-      "desc": "",
+      "desc": "Классические сетки, заметки и уровни сложности",
       "emoji": "🎮",
       "icon": "https://play-lh.googleusercontent.com/B50y6jq8JuAEY26x2Lkk5SqAr-stt8Nb3T7NlBnX7WfHycXwXzTG8If2e96WM5BA1y8LKsk2zkVvd_Odrbt4NQ=s256",
       "status": "published",
@@ -343,8 +434,8 @@
     },
     {
       "id": "com.debia.tanks",
-      "title": "Угадай танк: викторина",
-      "desc": "",
+      "title": "Угадай танк: военная техника",
+      "desc": "Викторина про танки, самолёты и вертолёты",
       "emoji": "🎮",
       "icon": "https://play-lh.googleusercontent.com/zJnNc_GpwLZzWEkVgMzatvCno0cSis5W-6JJ0FAlWh8q2UqSHkXtCVs16RI73J366ZJ-fnqtnqo0_Qk42rG4Yvw=s256",
       "status": "published",
@@ -354,22 +445,9 @@
       }
     },
     {
-      "id": "com.debia.trueorfalse",
-      "title": "Правда или ложь: викторина",
-      "desc": "",
-      "emoji": "🎮",
-      "icon": "https://play-lh.googleusercontent.com/PFXokARpyVQ7hZMfXIOO-cXn6N7SXoJfk-CtPNyln4euxCcp4kuV8rkkZeOZDtRpOu8c9SHmIBIOYXml5vnksA=s256",
-      "status": "published",
-      "stores": {
-        "googlePlay": "https://play.google.com/store/apps/details?id=com.debia.trueorfalse",
-        "ruStore": "https://www.rustore.ru/catalog/app/com.debia.trueorfalse",
-        "appStore": "https://apps.apple.com/app/id1204929564"
-      }
-    },
-    {
       "id": "com.debia.typeword",
-      "title": "Набери слово: падающие буквы",
-      "desc": "",
+      "title": "Набери слово: аркада",
+      "desc": "Скоростная игра с падающими словами",
       "emoji": "🎮",
       "icon": "https://play-lh.googleusercontent.com/-JildNeB3pzQa2G1jrwNhBAHikgxSNrcCML5YpFdn0LDTEcPuUPvUa0PWyFeUIyCwYyyqY29WjFAcV0OGvTZBg=s256",
       "status": "published",
@@ -379,21 +457,9 @@
       }
     },
     {
-      "id": "com.debia.udarenie",
-      "title": "Проставь ударение",
-      "desc": "",
-      "emoji": "🎮",
-      "icon": "https://play-lh.googleusercontent.com/ZkmIWrEnCANqwnIHst0ZdO7lwKHSrxg0-8lDm6hw_8o2L6Cj8B07Qq0S6VyWQNkBnc1q32c6GAHvxgTLXUN1=s256",
-      "status": "published",
-      "stores": {
-        "googlePlay": "https://play.google.com/store/apps/details?id=com.debia.udarenie",
-        "appStore": "https://apps.apple.com/app/id924025914"
-      }
-    },
-    {
       "id": "com.debia.ugadaysong",
-      "title": "Закончи песню",
-      "desc": "",
+      "title": "Закончи песню — викторина",
+      "desc": "Угадай строчки из любимых песен",
       "emoji": "🎮",
       "icon": "https://play-lh.googleusercontent.com/YGaV-xizWDh3OEQS2owQ7XjeCJiibC-O57HMceLnYQ05BEOsoY4AYq-SigPqxmG5y-H7h4OBn-4a3s7gnKRqKQ=s256",
       "status": "published",
@@ -405,7 +471,7 @@
     {
       "id": "com.debia.ugadaystih",
       "title": "Закончи стихотворение",
-      "desc": "",
+      "desc": "Вспомни пропущенное слово в русской классике",
       "emoji": "🎮",
       "icon": "https://play-lh.googleusercontent.com/F5e1MeT3OS4xb9maPVQWLa2SKa6t3s_bRw1ms-MGcroMSt_K3Tg_L-Z9QlTtfE8UyA9Wlmiu2dCFlL3jakFL=s256",
       "status": "published",
@@ -417,8 +483,8 @@
     },
     {
       "id": "com.debia.zagadkisto2",
-      "title": "1243 загадки",
-      "desc": "",
+      "title": "1243 загадки с ответами",
+      "desc": "Огромный сборник загадок для всей семьи",
       "emoji": "🎮",
       "icon": "https://play-lh.googleusercontent.com/QsvQlM8CZryxgqDcs59eIbZ1fTT7rYZtE5Ed6ZV5CFJeChVNVhBj2elbT80zP2KZfHUH6j-peVCJY1c1_jSHvQ=s256",
       "status": "published",
@@ -428,15 +494,25 @@
       }
     },
     {
-      "id": "com.debia.zoomphoto2",
-      "title": "Close Up-zoomed image game",
-      "desc": "",
-      "emoji": "🎮",
-      "icon": "https://play-lh.googleusercontent.com/HG5WGfaKee4MdvrKrZNPKzceVcPryhdmQrDg-ODvqjYNOukrfNethfVTKKUXNMMRR5saeEi2n3oYPno_fDos=s256",
+      "id": "com.debia.zagadkistoios",
+      "title": "Загадки для детей с ответами",
+      "desc": "Сотни весёлых загадок на логику и смекалку",
+      "emoji": "🍎",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/56/d0/1e/56d01e5e-03db-93f9-cd1c-36f40fae5180/pr_source.png/512x512bb.jpg",
       "status": "published",
       "stores": {
-        "googlePlay": "https://play.google.com/store/apps/details?id=com.debia.zoomphoto2",
-        "ruStore": "https://www.rustore.ru/catalog/app/com.debia.zoomphoto2"
+        "appStore": "https://apps.apple.com/app/id660172042"
+      }
+    },
+    {
+      "id": "com.debia.zoomphotogame",
+      "title": "Что в кадре? Угадай фото",
+      "desc": "Угадай предмет по приближённому фото",
+      "emoji": "🍎",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/ec/f3/a1ecf342-89fd-f2d2-8b33-26b74546759a/AppIcon-1x_U007emarketing-0-85-220-0-5.png/512x512bb.jpg",
+      "status": "published",
+      "stores": {
+        "appStore": "https://apps.apple.com/app/id660188434"
       }
     },
     {
@@ -574,17 +650,6 @@
       }
     },
     {
-      "id": "ru.debia.dreambook",
-      "title": "Сонник — толкование снов",
-      "desc": "Толкование снов по 1000 словам",
-      "emoji": "🛌",
-      "icon": "https://play-lh.googleusercontent.com/vNQr3YOuF4Kr40Z5_9LtNjAa4C4MMui_mTK5fgbLWApVMVPA0-fR89H8KQ2yg0RM-2e-I65c5qicoz04m42I4Q=s256",
-      "status": "published",
-      "stores": {
-        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.dreambook"
-      }
-    },
-    {
       "id": "ru.debia.easterdates",
       "title": "Пасха и праздники 2027",
       "desc": "Даты Пасхи и постов на любой год",
@@ -659,28 +724,6 @@
       "status": "published",
       "stores": {
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.game2048"
-      }
-    },
-    {
-      "id": "ru.debia.greetingcards",
-      "title": "Открытки с новым годом 2027",
-      "desc": "Открытки на все праздники со своим текстом",
-      "emoji": "🎁",
-      "icon": "https://play-lh.googleusercontent.com/Nj0p7wXu8blvoX453lSkOK1c9IldEVfh1UehuHIrbpxPq0dt7Tdf5QwtIRUnWyeYCm203l04tXVQxPB9-twyuQ=s256",
-      "status": "published",
-      "stores": {
-        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.greetingcards"
-      }
-    },
-    {
-      "id": "ru.debia.hangmanru",
-      "title": "Виселица: угадай слово",
-      "desc": "Угадай слово по категориям",
-      "emoji": "🪢",
-      "icon": "https://play-lh.googleusercontent.com/rqIRWtJ-yzfjFyiVoju81arMVwzSEOLJZAD-gSnJhC4nC4yKr_rChfDX5gjES9aZ6YGHZIAIUcnGckHySVM7DcI=s256",
-      "status": "published",
-      "stores": {
-        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.hangmanru"
       }
     },
     {
@@ -784,17 +827,6 @@
       }
     },
     {
-      "id": "ru.debia.orthodoxcalendar",
-      "title": "Православный календарь 2027",
-      "desc": "Посты, праздники, трапезы на каждый день",
-      "emoji": "⛪",
-      "icon": "https://play-lh.googleusercontent.com/uAXdNwCcLy0qLIb5h3qXGm5GGeksfV1O8uPcF7LkvhpBDGNJC2yjJY2ZIBRBFxnrUxnrrkvDqqDMTjuGznoG8Co=s256",
-      "status": "published",
-      "stores": {
-        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.orthodoxcalendar"
-      }
-    },
-    {
       "id": "ru.debia.passwordgen",
       "title": "Генератор паролей и PIN",
       "desc": "Надёжные пароли и фразы офлайн",
@@ -836,17 +868,6 @@
       "status": "published",
       "stores": {
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.pregnancyweeks"
-      }
-    },
-    {
-      "id": "ru.debia.prodcalendar",
-      "title": "Рабочий календарь РФ 2026/2027",
-      "desc": "Рабочие дни, нормы часов, короткие дни",
-      "emoji": "📅",
-      "icon": "https://play-lh.googleusercontent.com/iIWxLu6jSQdYWIjEg8gZGgjvDvvEIRE3ZBsEgv7X0gTPXaPCYxSMmEb-otMkuintYGx5h2qDKXEiiHJEtpRASA=s256",
-      "status": "published",
-      "stores": {
-        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.prodcalendar"
       }
     },
     {
@@ -1001,116 +1022,6 @@
       "status": "published",
       "stores": {
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.whitenoisesleep"
-      }
-    },
-    {
-      "id": "com.debia.millionair",
-      "title": "Миллионер 2015",
-      "desc": "",
-      "emoji": "🍎",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/d9/3a/0c/d93a0cc5-1897-fa3a-74e1-bceaba32c318/mzl.vlhhxxfb.jpg/512x512bb.jpg",
-      "status": "published",
-      "stores": {
-        "appStore": "https://apps.apple.com/app/id951661638"
-      }
-    },
-    {
-      "id": "com.debia.pdd",
-      "title": "ПДД 2016 Экзамен + Билеты + Штрафы",
-      "desc": "",
-      "emoji": "🍎",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple60/v4/f7/72/a7/f772a722-fbfd-9e91-21e9-749d273ebda1/mzl.rjrbafxp.png/512x512bb.jpg",
-      "status": "published",
-      "stores": {
-        "appStore": "https://apps.apple.com/app/id958071699"
-      }
-    },
-    {
-      "id": "com.debia.pdd2017",
-      "title": "Билеты + пдд 2017 экзамен",
-      "desc": "",
-      "emoji": "🍎",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/76/ca/d5/76cad5ca-598a-d2b6-5977-bdf19781f43f/AppIcon-1x_U007emarketing-0-85-220-0-5.png/512x512bb.jpg",
-      "status": "published",
-      "stores": {
-        "appStore": "https://apps.apple.com/app/id1161735204"
-      }
-    },
-    {
-      "id": "com.debia.slovaonline",
-      "title": "Составь Слова Онлайн",
-      "desc": "",
-      "emoji": "🍎",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/bc/96/61/bc9661ec-38f2-4602-9600-09f694a14b0c/mzl.aaejgzbd.png/512x512bb.jpg",
-      "status": "published",
-      "stores": {
-        "appStore": "https://apps.apple.com/app/id838289730"
-      }
-    },
-    {
-      "id": "com.debia.slovobor",
-      "title": "Словобор",
-      "desc": "",
-      "emoji": "🍎",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/37/c6/b7/37c6b731-c906-87b2-954b-e776dde8fbe6/pr_source.jpg/512x512bb.jpg",
-      "status": "published",
-      "stores": {
-        "appStore": "https://apps.apple.com/app/id660176556"
-      }
-    },
-    {
-      "id": "com.debia.sostavslova3",
-      "title": "Слово в Слове",
-      "desc": "",
-      "emoji": "🍎",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/1e/8f/2b/1e8f2bee-a36a-00d7-7084-9b321ca65e3a/mzl.huagaobj.jpg/512x512bb.jpg",
-      "status": "published",
-      "stores": {
-        "appStore": "https://apps.apple.com/app/id793141180"
-      }
-    },
-    {
-      "id": "com.debia.sostavslova5",
-      "title": "Составь слова 2015",
-      "desc": "",
-      "emoji": "🍎",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple6/v4/25/0b/a0/250ba075-6f6c-edea-1bad-a9bd2ab2e0cd/pr_source.jpg/512x512bb.jpg",
-      "status": "published",
-      "stores": {
-        "appStore": "https://apps.apple.com/app/id1044242873"
-      }
-    },
-    {
-      "id": "com.debia.sostavslovaplus",
-      "title": "Составь Слова+",
-      "desc": "",
-      "emoji": "🍎",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple60/v4/c6/62/92/c6629277-3706-7d26-5da9-11cc191a3b25/mzm.aeoduljk.jpg/512x512bb.jpg",
-      "status": "published",
-      "stores": {
-        "appStore": "https://apps.apple.com/app/id698223593"
-      }
-    },
-    {
-      "id": "com.debia.zagadkistoios",
-      "title": "100 Загадок для детей на логику с ответами",
-      "desc": "",
-      "emoji": "🍎",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/56/d0/1e/56d01e5e-03db-93f9-cd1c-36f40fae5180/pr_source.png/512x512bb.jpg",
-      "status": "published",
-      "stores": {
-        "appStore": "https://apps.apple.com/app/id660172042"
-      }
-    },
-    {
-      "id": "com.debia.zoomphotogame",
-      "title": "Zoom Photo Game",
-      "desc": "",
-      "emoji": "🍎",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/ec/f3/a1ecf342-89fd-f2d2-8b33-26b74546759a/AppIcon-1x_U007emarketing-0-85-220-0-5.png/512x512bb.jpg",
-      "status": "published",
-      "stores": {
-        "appStore": "https://apps.apple.com/app/id660188434"
       }
     }
   ]
