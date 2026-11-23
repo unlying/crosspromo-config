@@ -14,7 +14,46 @@
       },
       "cluster": "arcade",
       "weight": 20,
-      "spotlight": true
+      "spotlight": true,
+      "languages": [
+        "ru",
+        "en",
+        "es",
+        "pt",
+        "de",
+        "fr",
+        "tr"
+      ],
+      "i18n": {
+        "ru": {
+          "title": "АкваСорт — Сортировка воды",
+          "desc": "Антистресс-головоломка: сортируй цветную воду без таймера!"
+        },
+        "en": {
+          "title": "AquaSort — Water Sort Puzzle",
+          "desc": "Relaxing color water sorting puzzle with no timer!"
+        },
+        "es": {
+          "title": "AquaSort — Ordenar Agua",
+          "desc": "Rompecabezas relajante de colores sin temporizador."
+        },
+        "pt": {
+          "title": "AquaSort — Separar Água",
+          "desc": "Quebra-cabeça relaxante de cores sem cronômetro!"
+        },
+        "de": {
+          "title": "AquaSort — Wasser sortieren",
+          "desc": "Entspannendes Farbsortier-Puzzle ohne Zeitlimit!"
+        },
+        "fr": {
+          "title": "AquaSort — Tri d'eau",
+          "desc": "Puzzle relaxant de tri de couleurs sans chrono !"
+        },
+        "tr": {
+          "title": "AquaSort — Su Sıralama",
+          "desc": "Zaman sınırı olmadan rahatlatıcı renk sıralama bulmacası!"
+        }
+      }
     },
     {
       "id": "ru.debia.kubikblast",
@@ -32,7 +71,46 @@
         "puzzle",
         "blocks",
         "offline"
-      ]
+      ],
+      "languages": [
+        "ru",
+        "en",
+        "es",
+        "pt",
+        "de",
+        "fr",
+        "tr"
+      ],
+      "i18n": {
+        "ru": {
+          "title": "Кубик Бласт: Блок Пазл 8×8",
+          "desc": "Яркий неоновый блок-пазл 8×8 без интернета: комбо, бустеры и ежедневные вызовы!"
+        },
+        "en": {
+          "title": "Kubik Blast: Block Puzzle 8×8",
+          "desc": "Vibrant neon 8×8 offline block puzzle with combos, boosters & daily challenges!"
+        },
+        "es": {
+          "title": "Kubik Blast: Puzzle de Bloques",
+          "desc": "Rompecabezas de bloques 8×8 sin conexión con combos y retos diarios."
+        },
+        "pt": {
+          "title": "Kubik Blast: Quebra-Cabeça 8×8",
+          "desc": "Puzzle de blocos neon 8×8 offline com combos, boosters e desafios diários!"
+        },
+        "de": {
+          "title": "Kubik Blast: Block-Puzzle 8×8",
+          "desc": "Neon-Blockpuzzle 8×8 offline mit Kombos, Boostern & Tagesaufgaben!"
+        },
+        "fr": {
+          "title": "Kubik Blast : Puzzle Blocs 8×8",
+          "desc": "Puzzle de blocs néon 8×8 hors ligne avec combos et défis quotidiens !"
+        },
+        "tr": {
+          "title": "Kubik Blast: 8×8 Blok Bulmaca",
+          "desc": "Çevrimdışı 8×8 neon blok bulmacası: kombolar ve günlük görevler!"
+        }
+      }
     },
     {
       "id": "ru.debia.prodcalendar",
@@ -47,7 +125,10 @@
       },
       "cluster": "finance_law",
       "weight": 3,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.sostavslovaplus",
@@ -60,7 +141,10 @@
         "appStore": "https://apps.apple.com/app/id698223593"
       },
       "cluster": "arcade",
-      "weight": 1
+      "weight": 1,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.rebusisto",
@@ -76,7 +160,10 @@
         "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119718085"
       },
       "cluster": "quizzes",
-      "weight": 8
+      "weight": 8,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.hundred",
@@ -92,7 +179,10 @@
       },
       "cluster": "quizzes",
       "weight": 5,
-      "spotlight": true
+      "spotlight": true,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.udarenie",
@@ -106,7 +196,10 @@
         "appStore": "https://apps.apple.com/app/id924025914"
       },
       "cluster": "quizzes",
-      "weight": 6
+      "weight": 6,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.dreambook",
@@ -121,7 +214,10 @@
       },
       "cluster": "family_health",
       "weight": 3,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.pdd2017",
@@ -136,7 +232,10 @@
       },
       "cluster": "quizzes",
       "weight": 5,
-      "spotlight": true
+      "spotlight": true,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.greetingcards",
@@ -151,7 +250,10 @@
       },
       "cluster": "family_health",
       "weight": 3,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.orthodoxcalendar",
@@ -166,7 +268,10 @@
       },
       "cluster": "family_health",
       "weight": 3,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.trueorfalse",
@@ -182,7 +287,10 @@
         "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119866695"
       },
       "cluster": "quizzes",
-      "weight": 7
+      "weight": 7,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.hangmanru",
@@ -197,7 +305,10 @@
       },
       "cluster": "word_games",
       "weight": 3,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.associate",
@@ -211,7 +322,10 @@
         "appStore": "https://apps.apple.com/app/id940002166"
       },
       "cluster": "quizzes",
-      "weight": 1
+      "weight": 1,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.antonyms",
@@ -226,7 +340,10 @@
         "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119860153"
       },
       "cluster": "word_games",
-      "weight": 5
+      "weight": 5,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.sostavslova",
@@ -243,7 +360,10 @@
       },
       "cluster": "word_games",
       "weight": 5,
-      "spotlight": true
+      "spotlight": true,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.antonyms2",
@@ -257,7 +377,10 @@
       },
       "cluster": "word_games",
       "weight": 1,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.associate2",
@@ -271,7 +394,10 @@
       },
       "cluster": "quizzes",
       "weight": 1,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.bukvopad",
@@ -287,7 +413,10 @@
         "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119860185"
       },
       "cluster": "word_games",
-      "weight": 1
+      "weight": 1,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.cashback",
@@ -301,7 +430,10 @@
         "appStore": "https://apps.apple.com/app/id1571446932"
       },
       "cluster": "arcade",
-      "weight": 1
+      "weight": 1,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.fiftycolors",
@@ -315,7 +447,10 @@
       },
       "cluster": "arcade",
       "weight": 1,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.findword",
@@ -329,7 +464,10 @@
         "appStore": "https://apps.apple.com/app/id947787781"
       },
       "cluster": "word_games",
-      "weight": 1
+      "weight": 1,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.findword2",
@@ -343,7 +481,10 @@
       },
       "cluster": "word_games",
       "weight": 1,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.flappy2048",
@@ -358,7 +499,21 @@
       },
       "cluster": "arcade",
       "weight": 1,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "i18n": {
+        "en": {
+          "title": "Flappy 2048: Cube Flight",
+          "desc": "Fast-paced reaction arcade meets 2048 number merging!"
+        },
+        "ru": {
+          "title": "Flappy 2048: Cube Flight",
+          "desc": "Аркада на реакцию и слияние чисел"
+        }
+      }
     },
     {
       "id": "com.debia.flippycube",
@@ -373,7 +528,21 @@
       },
       "cluster": "arcade",
       "weight": 1,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "i18n": {
+        "en": {
+          "title": "Flippy Cube: Forest Flight",
+          "desc": "Dynamic one-tap arcade flight!"
+        },
+        "ru": {
+          "title": "Flippy Cube: Forest Flight",
+          "desc": "Динамичная аркада одним касанием"
+        }
+      }
     },
     {
       "id": "com.debia.fourzdjecie1slowo",
@@ -387,7 +556,16 @@
       },
       "cluster": "arcade",
       "weight": 1,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "pl"
+      ],
+      "i18n": {
+        "pl": {
+          "title": "4 Zdjęcia 1 Słowo",
+          "desc": "Klasyczna gra słowna ze zdjęciami"
+        }
+      }
     },
     {
       "id": "com.debia.game2048",
@@ -401,7 +579,21 @@
       },
       "cluster": "arcade",
       "weight": 1,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "i18n": {
+        "en": {
+          "title": "2048 Super Color",
+          "desc": "Colorful 2048 number merge puzzle"
+        },
+        "ru": {
+          "title": "2048 Super Color",
+          "desc": "Яркая головоломка слияния чисел"
+        }
+      }
     },
     {
       "id": "com.debia.guessanimal",
@@ -416,7 +608,10 @@
         "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119866913"
       },
       "cluster": "quizzes",
-      "weight": 1
+      "weight": 1,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.guesscity",
@@ -430,7 +625,10 @@
         "appStore": "https://apps.apple.com/app/id879914445"
       },
       "cluster": "quizzes",
-      "weight": 1
+      "weight": 1,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.guessmelody",
@@ -444,7 +642,10 @@
       },
       "cluster": "quizzes",
       "weight": 1,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.guesswho",
@@ -458,7 +659,10 @@
         "appStore": "https://apps.apple.com/app/id6786633995"
       },
       "cluster": "arcade",
-      "weight": 1
+      "weight": 1,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.letris",
@@ -473,7 +677,10 @@
       },
       "cluster": "word_games",
       "weight": 1,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.metro",
@@ -487,7 +694,10 @@
         "appStore": "https://apps.apple.com/app/id919057891"
       },
       "cluster": "quizzes",
-      "weight": 7
+      "weight": 7,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.scoresheet",
@@ -501,7 +711,16 @@
         "appStore": "https://apps.apple.com/app/id6740182652"
       },
       "cluster": "arcade",
-      "weight": 1
+      "weight": 1,
+      "languages": [
+        "en"
+      ],
+      "i18n": {
+        "en": {
+          "title": "Scoresheet: Harmonies & Faraway",
+          "desc": "Fast score calculator for board games"
+        }
+      }
     },
     {
       "id": "com.debia.slovaonline",
@@ -514,7 +733,10 @@
         "appStore": "https://apps.apple.com/app/id838289730"
       },
       "cluster": "word_games",
-      "weight": 1
+      "weight": 1,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.slovobor",
@@ -527,7 +749,10 @@
         "appStore": "https://apps.apple.com/app/id660176556"
       },
       "cluster": "word_games",
-      "weight": 1
+      "weight": 1,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.solitaire",
@@ -542,7 +767,10 @@
         "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119734381"
       },
       "cluster": "arcade",
-      "weight": 1
+      "weight": 1,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.sostavslova3",
@@ -555,7 +783,10 @@
         "appStore": "https://apps.apple.com/app/id793141180"
       },
       "cluster": "arcade",
-      "weight": 1
+      "weight": 1,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.sudoku",
@@ -570,7 +801,10 @@
         "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119733197"
       },
       "cluster": "arcade",
-      "weight": 1
+      "weight": 1,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.tanks",
@@ -584,7 +818,10 @@
         "appStore": "https://apps.apple.com/app/id1109664261"
       },
       "cluster": "quizzes",
-      "weight": 1
+      "weight": 1,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.typeword",
@@ -598,7 +835,10 @@
         "appStore": "https://apps.apple.com/app/id1082253407"
       },
       "cluster": "word_games",
-      "weight": 1
+      "weight": 1,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.ugadaysong",
@@ -612,7 +852,10 @@
         "appStore": "https://apps.apple.com/app/id1180493605"
       },
       "cluster": "quizzes",
-      "weight": 1
+      "weight": 1,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.ugadaystih",
@@ -628,7 +871,10 @@
         "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119729655"
       },
       "cluster": "quizzes",
-      "weight": 5
+      "weight": 5,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.zagadkisto2",
@@ -643,7 +889,10 @@
       },
       "cluster": "quizzes",
       "weight": 1,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.zagadkistoios",
@@ -656,7 +905,10 @@
         "appStore": "https://apps.apple.com/app/id660172042"
       },
       "cluster": "arcade",
-      "weight": 1
+      "weight": 1,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "com.debia.zoomphotogame",
@@ -669,7 +921,10 @@
         "appStore": "https://apps.apple.com/app/id660188434"
       },
       "cluster": "arcade",
-      "weight": 1
+      "weight": 1,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.alimonycalc",
@@ -684,7 +939,10 @@
       },
       "cluster": "finance_law",
       "weight": 3,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.ceilingcalc",
@@ -698,7 +956,10 @@
       },
       "cluster": "repair",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.chessmatepuzzles",
@@ -714,7 +975,10 @@
       },
       "cluster": "quizzes",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.concretecalc",
@@ -728,7 +992,10 @@
       },
       "cluster": "repair",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.contractiontimer",
@@ -743,7 +1010,10 @@
       },
       "cluster": "family_health",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.cookfromfridge",
@@ -757,7 +1027,10 @@
       },
       "cluster": "family_health",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.countdownwidgets",
@@ -772,7 +1045,10 @@
       },
       "cluster": "family_health",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.courtfeecalc",
@@ -787,7 +1063,10 @@
       },
       "cluster": "finance_law",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.dailyhoroscope",
@@ -802,7 +1081,10 @@
       },
       "cluster": "family_health",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.daysclean",
@@ -817,7 +1099,10 @@
       },
       "cluster": "family_health",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.ddupenaltycalc",
@@ -832,7 +1117,10 @@
       },
       "cluster": "finance_law",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.debtinterest395",
@@ -847,7 +1135,10 @@
       },
       "cluster": "finance_law",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.easterdates",
@@ -862,7 +1153,10 @@
       },
       "cluster": "family_health",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.egetrainer",
@@ -877,7 +1171,10 @@
       },
       "cluster": "quizzes",
       "weight": 3,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.eng3000words",
@@ -891,7 +1188,10 @@
       },
       "cluster": "quizzes",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.eyerest20",
@@ -905,7 +1205,10 @@
       },
       "cluster": "family_health",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.fancynicknames",
@@ -920,7 +1223,10 @@
       },
       "cluster": "family_health",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.flashlightmorse",
@@ -934,7 +1240,10 @@
       },
       "cluster": "repair",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.game2048",
@@ -948,7 +1257,10 @@
       },
       "cluster": "arcade",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.kbzhudiary",
@@ -963,7 +1275,10 @@
       },
       "cluster": "family_health",
       "weight": 3,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.labtestsguide",
@@ -978,7 +1293,10 @@
       },
       "cluster": "family_health",
       "weight": 3,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.lines98",
@@ -992,7 +1310,10 @@
       },
       "cluster": "arcade",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.minesweeperflags",
@@ -1006,7 +1327,10 @@
       },
       "cluster": "arcade",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.mortarmixcalc",
@@ -1020,7 +1344,10 @@
       },
       "cluster": "repair",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.multiplicationtrainer",
@@ -1034,7 +1361,10 @@
       },
       "cluster": "quizzes",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.namemeaning",
@@ -1048,7 +1378,10 @@
       },
       "cluster": "family_health",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.nonogramru",
@@ -1063,7 +1396,10 @@
       },
       "cluster": "arcade",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.npdcalc",
@@ -1077,7 +1413,10 @@
       },
       "cluster": "finance_law",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.passwordgen",
@@ -1091,7 +1430,10 @@
       },
       "cluster": "repair",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.payrollcalc",
@@ -1105,7 +1447,10 @@
       },
       "cluster": "finance_law",
       "weight": 3,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.photopuzzle",
@@ -1119,7 +1464,10 @@
       },
       "cluster": "family_health",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.pregnancyweeks",
@@ -1133,7 +1481,10 @@
       },
       "cluster": "family_health",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.pushups100",
@@ -1147,7 +1498,10 @@
       },
       "cluster": "family_health",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.repairchecklist",
@@ -1161,7 +1515,10 @@
       },
       "cluster": "repair",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.repairmaterialscalc",
@@ -1175,7 +1532,10 @@
       },
       "cluster": "repair",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.sizeconverter",
@@ -1189,7 +1549,10 @@
       },
       "cluster": "family_health",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.solitaireklondike",
@@ -1203,7 +1566,10 @@
       },
       "cluster": "arcade",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.solitairepyramid",
@@ -1217,7 +1583,10 @@
       },
       "cluster": "arcade",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.sudokuru",
@@ -1231,7 +1600,10 @@
       },
       "cluster": "arcade",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.tabatatimer",
@@ -1245,7 +1617,10 @@
       },
       "cluster": "family_health",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.tatarbasics",
@@ -1260,7 +1635,10 @@
       },
       "cluster": "quizzes",
       "weight": 3,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.toastgenerator",
@@ -1275,7 +1653,10 @@
       },
       "cluster": "family_health",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.vacationpaycalc",
@@ -1289,7 +1670,10 @@
       },
       "cluster": "finance_law",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.vaccinecalendar",
@@ -1303,7 +1687,10 @@
       },
       "cluster": "family_health",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.watertracker",
@@ -1317,7 +1704,10 @@
       },
       "cluster": "family_health",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.whitenoisesleep",
@@ -1331,7 +1721,10 @@
       },
       "cluster": "family_health",
       "weight": 2,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     },
     {
       "id": "ru.debia.taxdeductioncalc",
@@ -1346,7 +1739,10 @@
       },
       "cluster": "finance_law",
       "weight": 3,
-      "spotlight": false
+      "spotlight": false,
+      "languages": [
+        "ru"
+      ]
     }
   ]
 }
