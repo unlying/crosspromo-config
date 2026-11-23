@@ -3,6 +3,20 @@
   "ttlSeconds": 21600,
   "apps": [
     {
+      "id": "ru.debia.aquasort",
+      "title": "АкваСорт — Сортировка воды",
+      "desc": "Антистресс-головоломка: сортируй цветную воду без таймера!",
+      "emoji": "🧪",
+      "icon": "https://lh3.googleusercontent.com/ApqkI8COl_Jw6UaAbMnewHnVxZAPMHvUfe7hcRTl8VLFOjodyA3B3Tyq9GAXpctCftQ=s256",
+      "status": "published",
+      "stores": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.aquasort"
+      },
+      "cluster": "arcade",
+      "weight": 20,
+      "spotlight": true
+    },
+    {
       "id": "ru.debia.prodcalendar",
       "title": "Рабочий календарь РФ 2026/2027",
       "desc": "Рабочие дни, нормы часов, короткие дни",
@@ -14,8 +28,8 @@
         "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119921249"
       },
       "cluster": "finance_law",
-      "weight": 10,
-      "spotlight": true
+      "weight": 3,
+      "spotlight": false
     },
     {
       "id": "com.debia.sostavslovaplus",
@@ -59,7 +73,7 @@
         "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119734015"
       },
       "cluster": "quizzes",
-      "weight": 9,
+      "weight": 5,
       "spotlight": true
     },
     {
@@ -88,7 +102,8 @@
         "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119921255"
       },
       "cluster": "family_health",
-      "weight": 8
+      "weight": 3,
+      "spotlight": false
     },
     {
       "id": "com.debia.pdd2017",
@@ -102,7 +117,7 @@
         "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119921265"
       },
       "cluster": "quizzes",
-      "weight": 9,
+      "weight": 5,
       "spotlight": true
     },
     {
@@ -117,8 +132,8 @@
         "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119921257"
       },
       "cluster": "family_health",
-      "weight": 9,
-      "spotlight": true
+      "weight": 3,
+      "spotlight": false
     },
     {
       "id": "ru.debia.orthodoxcalendar",
@@ -132,7 +147,8 @@
         "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119921259"
       },
       "cluster": "family_health",
-      "weight": 8
+      "weight": 3,
+      "spotlight": false
     },
     {
       "id": "com.debia.trueorfalse",
@@ -162,7 +178,8 @@
         "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119921277"
       },
       "cluster": "word_games",
-      "weight": 6
+      "weight": 3,
+      "spotlight": false
     },
     {
       "id": "com.debia.associate",
@@ -207,7 +224,7 @@
         "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119709659"
       },
       "cluster": "word_games",
-      "weight": 10,
+      "weight": 5,
       "spotlight": true
     },
     {
@@ -221,7 +238,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=com.debia.antonyms2"
       },
       "cluster": "word_games",
-      "weight": 1
+      "weight": 1,
+      "spotlight": false
     },
     {
       "id": "com.debia.associate2",
@@ -234,7 +252,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=com.debia.associate2"
       },
       "cluster": "quizzes",
-      "weight": 1
+      "weight": 1,
+      "spotlight": false
     },
     {
       "id": "com.debia.bukvopad",
@@ -277,7 +296,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=com.debia.fiftycolors"
       },
       "cluster": "arcade",
-      "weight": 1
+      "weight": 1,
+      "spotlight": false
     },
     {
       "id": "com.debia.findword",
@@ -304,7 +324,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=com.debia.findword2"
       },
       "cluster": "word_games",
-      "weight": 1
+      "weight": 1,
+      "spotlight": false
     },
     {
       "id": "com.debia.flappy2048",
@@ -318,7 +339,8 @@
         "ruStore": "https://www.rustore.ru/catalog/app/com.debia.flappy2048"
       },
       "cluster": "arcade",
-      "weight": 1
+      "weight": 1,
+      "spotlight": false
     },
     {
       "id": "com.debia.flippycube",
@@ -332,7 +354,8 @@
         "ruStore": "https://www.rustore.ru/catalog/app/com.debia.flippycube"
       },
       "cluster": "arcade",
-      "weight": 1
+      "weight": 1,
+      "spotlight": false
     },
     {
       "id": "com.debia.fourzdjecie1slowo",
@@ -345,7 +368,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=com.debia.fourzdjecie1slowo"
       },
       "cluster": "arcade",
-      "weight": 1
+      "weight": 1,
+      "spotlight": false
     },
     {
       "id": "com.debia.game2048",
@@ -358,7 +382,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=com.debia.game2048"
       },
       "cluster": "arcade",
-      "weight": 1
+      "weight": 1,
+      "spotlight": false
     },
     {
       "id": "com.debia.guessanimal",
@@ -400,7 +425,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=com.debia.guessmelody"
       },
       "cluster": "quizzes",
-      "weight": 1
+      "weight": 1,
+      "spotlight": false
     },
     {
       "id": "com.debia.guesswho",
@@ -428,7 +454,8 @@
         "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119860347"
       },
       "cluster": "word_games",
-      "weight": 1
+      "weight": 1,
+      "spotlight": false
     },
     {
       "id": "com.debia.metro",
@@ -597,7 +624,8 @@
         "ruStore": "https://www.rustore.ru/catalog/app/com.debia.zagadkisto2"
       },
       "cluster": "quizzes",
-      "weight": 1
+      "weight": 1,
+      "spotlight": false
     },
     {
       "id": "com.debia.zagadkistoios",
@@ -633,10 +661,12 @@
       "icon": "https://play-lh.googleusercontent.com/IapEV7NPXUQ5A5dGHH6xi1KqskKpB1upJFo78EehjIanZqrKxp48UFOqTKIVwOCBUJ08_Cfhp-h8QEX3p_bNpw8=s256",
       "status": "published",
       "stores": {
-        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.alimonycalc"
+        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.alimonycalc",
+        "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119927865"
       },
       "cluster": "finance_law",
-      "weight": 5
+      "weight": 3,
+      "spotlight": false
     },
     {
       "id": "ru.debia.ceilingcalc",
@@ -649,7 +679,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.ceilingcalc"
       },
       "cluster": "repair",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.chessmatepuzzles",
@@ -660,10 +691,12 @@
       "status": "published",
       "stores": {
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.chessmatepuzzles",
-        "ruStore": "https://www.rustore.ru/catalog/app/ru.debia.chessmatepuzzles"
+        "ruStore": "https://www.rustore.ru/catalog/app/ru.debia.chessmatepuzzles",
+        "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119927819"
       },
       "cluster": "quizzes",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.concretecalc",
@@ -676,7 +709,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.concretecalc"
       },
       "cluster": "repair",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.contractiontimer",
@@ -686,10 +720,12 @@
       "icon": "https://play-lh.googleusercontent.com/jHcX9-nUAQeMTQnrBMEXd0Ld_u9I8lVaA5oD4GNsr78pjwwtDcCQ1Ij1kgb-GNaBbz1DL80HgP-PDiz1UthhUqg=s256",
       "status": "published",
       "stores": {
-        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.contractiontimer"
+        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.contractiontimer",
+        "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119927827"
       },
       "cluster": "family_health",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.cookfromfridge",
@@ -702,7 +738,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.cookfromfridge"
       },
       "cluster": "family_health",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.countdownwidgets",
@@ -712,10 +749,12 @@
       "icon": "https://play-lh.googleusercontent.com/qSVK-9QUFjjRyKGFSN7CaTTBdap4I2iZ6avS1IY29GfyPqAjwgJGcG0zpHfToBQHWCrXU5J67EUU7w9rqbXx6g=s256",
       "status": "published",
       "stores": {
-        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.countdownwidgets"
+        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.countdownwidgets",
+        "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119927857"
       },
       "cluster": "family_health",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.courtfeecalc",
@@ -725,10 +764,12 @@
       "icon": "https://play-lh.googleusercontent.com/n1-T1wE0N6V9Sy7UHZBQIPgHbWzohZWje5NBahl-hWLi_AvKPz3kKv5YEObOi4LSlfbNfd7EDETwalosB1Px=s256",
       "status": "published",
       "stores": {
-        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.courtfeecalc"
+        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.courtfeecalc",
+        "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119927889"
       },
       "cluster": "finance_law",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.dailyhoroscope",
@@ -742,7 +783,8 @@
         "ruStore": "https://www.rustore.ru/catalog/app/ru.debia.dailyhoroscope"
       },
       "cluster": "family_health",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.daysclean",
@@ -752,10 +794,12 @@
       "icon": "https://play-lh.googleusercontent.com/WwEUjEZzieb1Xn1-ohkkqPV6PYtnDnXoMevCV9g70tmxWSHYaWSr8GvX1n8FvkiWliaF8O8OiLqP-woem5pw=s256",
       "status": "published",
       "stores": {
-        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.daysclean"
+        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.daysclean",
+        "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119927837"
       },
       "cluster": "family_health",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.ddupenaltycalc",
@@ -765,10 +809,12 @@
       "icon": "https://play-lh.googleusercontent.com/mH-qmOKMHKKU9vOP-syJUVBRMzTfI73Ai5l5m34L2fY2p2X9K682kDnJMg8OYMDOxa7GtjdAsl5qgQmFh3EVvA=s256",
       "status": "published",
       "stores": {
-        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.ddupenaltycalc"
+        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.ddupenaltycalc",
+        "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119927871"
       },
       "cluster": "finance_law",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.debtinterest395",
@@ -778,10 +824,12 @@
       "icon": "https://play-lh.googleusercontent.com/H9lr_LVzaqz24wi3QUNAg-jSdoNKezbFXnOFvmM0SWHy5XisyIUph0LZdR-YJY0jR_LNz2a_WnblcMmwJJ2A4w=s256",
       "status": "published",
       "stores": {
-        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.debtinterest395"
+        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.debtinterest395",
+        "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119927893"
       },
       "cluster": "finance_law",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.easterdates",
@@ -791,10 +839,12 @@
       "icon": "https://play-lh.googleusercontent.com/8jyW5lVfDqTpIl-LW3YU7xgqQgzDeD3Z6blPqvaEvzQDZqYAOnXUTOFcQZjiCEmkUbcndXqLNR9nv0E6QN2gE48=s256",
       "status": "published",
       "stores": {
-        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.easterdates"
+        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.easterdates",
+        "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119927845"
       },
       "cluster": "family_health",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.egetrainer",
@@ -808,7 +858,8 @@
         "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119921275"
       },
       "cluster": "quizzes",
-      "weight": 7
+      "weight": 3,
+      "spotlight": false
     },
     {
       "id": "ru.debia.eng3000words",
@@ -821,7 +872,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.eng3000words"
       },
       "cluster": "quizzes",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.eyerest20",
@@ -834,7 +886,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.eyerest20"
       },
       "cluster": "family_health",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.fancynicknames",
@@ -844,10 +897,12 @@
       "icon": "https://play-lh.googleusercontent.com/aMGW6NyCncDNCPs-1FYRQHiMZprlgiYokfXPbWRN_ga2fvKocx1gy40H0KUHM9oe-jJpm0dz9-ORgeaadsYHLA=s256",
       "status": "published",
       "stores": {
-        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.fancynicknames"
+        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.fancynicknames",
+        "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119927829"
       },
       "cluster": "family_health",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.flashlightmorse",
@@ -860,7 +915,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.flashlightmorse"
       },
       "cluster": "repair",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.game2048",
@@ -873,7 +929,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.game2048"
       },
       "cluster": "arcade",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.kbzhudiary",
@@ -883,10 +940,12 @@
       "icon": "https://play-lh.googleusercontent.com/5WCmMeqd6vxDLT3f7RsymjwZ1gzUuK_EK4bBZ10pYbSdTlTr8es01fxoazs_-4fzOABNrnT2IbJWg1WSjv45nQ=s256",
       "status": "published",
       "stores": {
-        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.kbzhudiary"
+        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.kbzhudiary",
+        "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119927813"
       },
       "cluster": "family_health",
-      "weight": 6
+      "weight": 3,
+      "spotlight": false
     },
     {
       "id": "ru.debia.labtestsguide",
@@ -900,7 +959,8 @@
         "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119921279"
       },
       "cluster": "family_health",
-      "weight": 6
+      "weight": 3,
+      "spotlight": false
     },
     {
       "id": "ru.debia.lines98",
@@ -913,7 +973,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.lines98"
       },
       "cluster": "arcade",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.minesweeperflags",
@@ -926,7 +987,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.minesweeperflags"
       },
       "cluster": "arcade",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.mortarmixcalc",
@@ -939,7 +1001,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.mortarmixcalc"
       },
       "cluster": "repair",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.multiplicationtrainer",
@@ -952,7 +1015,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.multiplicationtrainer"
       },
       "cluster": "quizzes",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.namemeaning",
@@ -965,7 +1029,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.namemeaning"
       },
       "cluster": "family_health",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.nonogramru",
@@ -979,7 +1044,8 @@
         "ruStore": "https://www.rustore.ru/catalog/app/ru.debia.nonogramru"
       },
       "cluster": "arcade",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.npdcalc",
@@ -992,7 +1058,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.npdcalc"
       },
       "cluster": "finance_law",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.passwordgen",
@@ -1005,7 +1072,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.passwordgen"
       },
       "cluster": "repair",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.payrollcalc",
@@ -1018,7 +1086,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.payrollcalc"
       },
       "cluster": "finance_law",
-      "weight": 5
+      "weight": 3,
+      "spotlight": false
     },
     {
       "id": "ru.debia.photopuzzle",
@@ -1031,7 +1100,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.photopuzzle"
       },
       "cluster": "family_health",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.pregnancyweeks",
@@ -1044,7 +1114,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.pregnancyweeks"
       },
       "cluster": "family_health",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.pushups100",
@@ -1057,7 +1128,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.pushups100"
       },
       "cluster": "family_health",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.repairchecklist",
@@ -1070,7 +1142,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.repairchecklist"
       },
       "cluster": "repair",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.repairmaterialscalc",
@@ -1083,7 +1156,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.repairmaterialscalc"
       },
       "cluster": "repair",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.sizeconverter",
@@ -1096,7 +1170,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.sizeconverter"
       },
       "cluster": "family_health",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.solitaireklondike",
@@ -1109,7 +1184,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.solitaireklondike"
       },
       "cluster": "arcade",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.solitairepyramid",
@@ -1122,7 +1198,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.solitairepyramid"
       },
       "cluster": "arcade",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.sudokuru",
@@ -1135,7 +1212,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.sudokuru"
       },
       "cluster": "arcade",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.tabatatimer",
@@ -1148,7 +1226,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.tabatatimer"
       },
       "cluster": "family_health",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.tatarbasics",
@@ -1162,7 +1241,8 @@
         "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119921271"
       },
       "cluster": "quizzes",
-      "weight": 7
+      "weight": 3,
+      "spotlight": false
     },
     {
       "id": "ru.debia.toastgenerator",
@@ -1172,10 +1252,12 @@
       "icon": "https://play-lh.googleusercontent.com/F7slNnt5aWO8Nv8M9tRBYHChVWvxKOMlgJwrz38g6aM8GtHJAsqWz2u1QucCYFBKhOki7BeyK7ugFJayKo1_=s256",
       "status": "published",
       "stores": {
-        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.toastgenerator"
+        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.toastgenerator",
+        "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119927853"
       },
       "cluster": "family_health",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.vacationpaycalc",
@@ -1188,7 +1270,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.vacationpaycalc"
       },
       "cluster": "finance_law",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.vaccinecalendar",
@@ -1201,7 +1284,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.vaccinecalendar"
       },
       "cluster": "family_health",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.watertracker",
@@ -1214,7 +1298,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.watertracker"
       },
       "cluster": "family_health",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.whitenoisesleep",
@@ -1227,7 +1312,8 @@
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.whitenoisesleep"
       },
       "cluster": "family_health",
-      "weight": 2
+      "weight": 2,
+      "spotlight": false
     },
     {
       "id": "ru.debia.taxdeductioncalc",
@@ -1241,7 +1327,7 @@
         "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119921283"
       },
       "cluster": "finance_law",
-      "weight": 8,
+      "weight": 3,
       "spotlight": false
     }
   ]
