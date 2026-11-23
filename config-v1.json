@@ -17,6 +17,24 @@
       "spotlight": true
     },
     {
+      "id": "ru.debia.kubikblast",
+      "title": "Кубик Бласт: Блок Пазл 8×8",
+      "desc": "Яркий неоновый блок-пазл 8×8 без интернета: комбо, бустеры и ежедневные вызовы!",
+      "cluster": "arcade",
+      "weight": 20,
+      "spotlight": true,
+      "stores": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.kubikblast"
+      },
+      "tags": [
+        "new",
+        "launch_spotlight",
+        "puzzle",
+        "blocks",
+        "offline"
+      ]
+    },
+    {
       "id": "ru.debia.prodcalendar",
       "title": "Рабочий календарь РФ 2026/2027",
       "desc": "Рабочие дни, нормы часов, короткие дни",
