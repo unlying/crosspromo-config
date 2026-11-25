@@ -3,6 +3,71 @@
   "ttlSeconds": 21600,
   "apps": [
     {
+      "id": "ru.debia.truthordare",
+      "title": "Правда или Действие: Вечеринка",
+      "desc": "Бутылочка, 1200+ заданий, Новый год 2027 и режим для пар — офлайн!",
+      "emoji": "🍾",
+      "icon": "https://play-lh.googleusercontent.com/tgJYi5XNzQttNd7bDwCBROJRujVfhU88PKanuLZQW5qw_1Y1SzmQjAekgsRs0-uVKbqnbj9gEqiXcWAsSa7fhwE=s256",
+      "status": "published",
+      "stores": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.truthordare"
+      },
+      "cluster": "party",
+      "weight": 20,
+      "spotlight": true,
+      "tags": [
+        "new",
+        "launch_spotlight",
+        "party",
+        "bottle",
+        "offline"
+      ],
+      "languages": [
+        "ru",
+        "en",
+        "es",
+        "pt",
+        "de",
+        "fr",
+        "tr",
+        "it"
+      ],
+      "i18n": {
+        "ru": {
+          "title": "Правда или Действие: Вечеринка",
+          "desc": "Бутылочка, 1200+ заданий, Новый год 2027 и режим для пар — офлайн!"
+        },
+        "en": {
+          "title": "Truth or Dare: Party Spin",
+          "desc": "2D Bottle Spin, 1200+ cards, Holiday 2027 & Couples mode — 100% offline!"
+        },
+        "es": {
+          "title": "Verdad o Reto: Fiesta",
+          "desc": "Botella 2D, 1200+ cartas, Año Nuevo 2027 y modo Parejas ¡sin internet!"
+        },
+        "pt": {
+          "title": "Verdade ou Desafio: Festa",
+          "desc": "Garrafa 2D, 1200+ cartas, Ano Novo 2027 e modo Casal — 100% offline!"
+        },
+        "de": {
+          "title": "Wahrheit oder Pflicht: Party",
+          "desc": "2D-Flaschendrehen, 1200+ Karten, Silvester 2027 & Paare — 100% offline!"
+        },
+        "fr": {
+          "title": "Action ou Vérité : Soirée",
+          "desc": "Bouteille 2D, 1200+ cartes, Nouvel An 2027 & mode Couple hors ligne !"
+        },
+        "tr": {
+          "title": "Doğruluk mu Cesaret mi: Parti",
+          "desc": "2D Şişe Çevirme, 1200+ kart, Yılbaşı 2027 ve Çift modu — internetsiz!"
+        },
+        "it": {
+          "title": "Obbligo o Verità: Festa",
+          "desc": "Bottiglia 2D, 1200+ carte, Capodanno 2027 e modalità Coppia offline!"
+        }
+      }
+    },
+    {
       "id": "ru.debia.aquasort",
       "title": "АкваСорт — Сортировка воды",
       "desc": "Антистресс-головоломка: сортируй цветную воду без таймера!",
