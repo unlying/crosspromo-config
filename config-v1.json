@@ -3,6 +3,118 @@
   "ttlSeconds": 21600,
   "apps": [
     {
+      "id": "ru.debia.photocleaner",
+      "title": "ЧистоФото: Дубликаты в галерее",
+      "desc": "Новинка от студии Debia — ЧистоФото: Дубликаты в галерее!",
+      "emoji": "🚀",
+      "icon": "",
+      "status": "published",
+      "stores": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.photocleaner",
+        "huawei": "https://appgallery.huawei.com/app/C119965303"
+      },
+      "cluster": "utility",
+      "weight": 20,
+      "spotlight": true,
+      "tags": [
+        "new",
+        "launch_spotlight"
+      ],
+      "languages": [
+        "ru",
+        "en"
+      ]
+    },
+    {
+      "id": "ru.debia.nutsort",
+      "title": "Гайки и Болты: Сортировка",
+      "desc": "Новинка от студии Debia — Гайки и Болты: Сортировка!",
+      "emoji": "🚀",
+      "icon": "",
+      "status": "published",
+      "stores": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.nutsort"
+      },
+      "cluster": "utility",
+      "weight": 20,
+      "spotlight": true,
+      "tags": [
+        "new",
+        "launch_spotlight"
+      ],
+      "languages": [
+        "ru",
+        "en"
+      ]
+    },
+    {
+      "id": "ru.debia.fillwords",
+      "title": "Словоград: Филворды",
+      "desc": "Новинка от студии Debia — Словоград: Филворды!",
+      "emoji": "🚀",
+      "icon": "",
+      "status": "published",
+      "stores": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.fillwords",
+        "appStore": "https://apps.apple.com/app/id6838322895"
+      },
+      "cluster": "utility",
+      "weight": 20,
+      "spotlight": true,
+      "tags": [
+        "new",
+        "launch_spotlight"
+      ],
+      "languages": [
+        "ru",
+        "en"
+      ]
+    },
+    {
+      "id": "ru.debia.crop",
+      "title": "СканPDF: Сканер в PDF офлайн",
+      "desc": "Новинка от студии Debia — СканPDF: Сканер в PDF офлайн!",
+      "emoji": "🚀",
+      "icon": "",
+      "status": "published",
+      "stores": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.crop"
+      },
+      "cluster": "utility",
+      "weight": 20,
+      "spotlight": true,
+      "tags": [
+        "new",
+        "launch_spotlight"
+      ],
+      "languages": [
+        "ru",
+        "en"
+      ]
+    },
+    {
+      "id": "com.debia.aquarium",
+      "title": "Crazy Fish Tank",
+      "desc": "Новинка от студии Debia — Crazy Fish Tank!",
+      "emoji": "🚀",
+      "icon": "",
+      "status": "published",
+      "stores": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.debia.aquarium"
+      },
+      "cluster": "utility",
+      "weight": 20,
+      "spotlight": true,
+      "tags": [
+        "new",
+        "launch_spotlight"
+      ],
+      "languages": [
+        "ru",
+        "en"
+      ]
+    },
+    {
       "id": "ru.debia.truthordare",
       "title": "Правда или Действие: Вечеринка",
       "desc": "Бутылочка, 1200+ заданий, Новый год 2027 и режим для пар — офлайн!",
