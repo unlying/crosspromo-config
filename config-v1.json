@@ -186,10 +186,11 @@
       "status": "published",
       "stores": {
         "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.prodcalendar",
-        "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119921249"
+        "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119921249",
+        "appStore": "https://apps.apple.com/app/id6826290843"
       },
       "cluster": "finance_law",
-      "weight": 3,
+      "weight": 8,
       "spotlight": false,
       "languages": [
         "ru"
@@ -278,7 +279,7 @@
         "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119921255"
       },
       "cluster": "family_health",
-      "weight": 3,
+      "weight": 6,
       "spotlight": false,
       "languages": [
         "ru"
@@ -314,7 +315,7 @@
         "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119921257"
       },
       "cluster": "family_health",
-      "weight": 3,
+      "weight": 7,
       "spotlight": false,
       "languages": [
         "ru"
@@ -332,7 +333,7 @@
         "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119921259"
       },
       "cluster": "family_health",
-      "weight": 3,
+      "weight": 5,
       "spotlight": false,
       "languages": [
         "ru"
@@ -402,7 +403,8 @@
       "stores": {
         "googlePlay": "https://play.google.com/store/apps/details?id=com.debia.antonyms",
         "appStore": "https://apps.apple.com/app/id660186152",
-        "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119860153"
+        "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119860153",
+        "ruStore": "https://www.rustore.ru/catalog/app/com.debia.antonyms"
       },
       "cluster": "word_games",
       "weight": 5,
@@ -1357,7 +1359,7 @@
         "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119921279"
       },
       "cluster": "family_health",
-      "weight": 3,
+      "weight": 5,
       "spotlight": false,
       "languages": [
         "ru"
@@ -1699,7 +1701,7 @@
         "appGallery": "https://appgallery.cloud.huawei.com/ag/n/app/C119921271"
       },
       "cluster": "quizzes",
-      "weight": 3,
+      "weight": 5,
       "spotlight": false,
       "languages": [
         "ru"
