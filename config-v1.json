@@ -2143,6 +2143,52 @@
       "languages": [
         "ru"
       ]
+    },
+    {
+      "id": "ru.debia.scanwords",
+      "title": "Сканворды РФ: Кроссворды",
+      "desc": "72 настоящих русских сканворда офлайн, крупный шрифт и Сканворд дня!",
+      "emoji": "📰",
+      "icon": "https://play-lh.googleusercontent.com/pcsb/AEecphY2VW8YhgKs_KvchwqY_W1diTK4fIbSoP_tzqQ0SoKfaaqB4o68IDc7-Kkb-UyNyaWjs4vAWwIDRPyzYy2V9_choe2Z3mQ=s256",
+      "status": "published",
+      "stores": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.scanwords"
+      },
+      "cluster": "word_games",
+      "weight": 20,
+      "spotlight": true,
+      "tags": [
+        "new",
+        "launch_spotlight",
+        "words",
+        "scanwords",
+        "crosswords",
+        "offline"
+      ],
+      "languages": [
+        "ru",
+        "en",
+        "kk",
+        "uk"
+      ],
+      "i18n": {
+        "ru": {
+          "title": "Сканворды РФ: Кроссворды",
+          "desc": "72 настоящих русских сканворда офлайн, крупный шрифт и Сканворд дня!"
+        },
+        "en": {
+          "title": "Scanwords RU: Offline Puzzles",
+          "desc": "72 classic Russian scanwords offline with large font and Daily Calendar!"
+        },
+        "kk": {
+          "title": "Сканвордтар РФ: Офлайн ойын",
+          "desc": "72 орысша сканворд интернетсіз, ірі қаріп және Күн сканворды!"
+        },
+        "uk": {
+          "title": "Сканворди РФ: Офлайн випуски",
+          "desc": "72 класичних сканвордів без інтернету, великий шрифт і Сканворд дня!"
+        }
+      }
     }
   ]
 }
