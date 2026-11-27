@@ -3,6 +3,72 @@
   "ttlSeconds": 3600,
   "apps": [
     {
+      "id": "ru.debia.spidersolitaire",
+      "title": "Пасьянс Паук: 1, 2 и 4 масти",
+      "desc": "Классический Пасьянс Паук офлайн с крупными картами, Раздачей дня и паучком Арчи!",
+      "emoji": "🕷️",
+      "icon": "https://play-lh.googleusercontent.com/pcsb/AEecphasaD7oHyzh4O8mVmofhLPBqkluzUSLerHKgfoyHMn-4fpqQTttWGLAQ5zGMTI4uSSgsoH2t6c6y5F5QLl9tfJUkTqnHOI=s256",
+      "status": "published",
+      "stores": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=ru.debia.spidersolitaire"
+      },
+      "cluster": "classic_games",
+      "weight": 20,
+      "spotlight": true,
+      "tags": [
+        "new",
+        "launch_spotlight",
+        "cards",
+        "solitaire",
+        "spider",
+        "offline"
+      ],
+      "languages": [
+        "ru",
+        "en",
+        "de",
+        "es",
+        "fr",
+        "pt",
+        "tr",
+        "id"
+      ],
+      "i18n": {
+        "ru": {
+          "title": "Пасьянс Паук: 1, 2 и 4 масти",
+          "desc": "Классический Пасьянс Паук офлайн с крупными картами, Раздачей дня и паучком Арчи!"
+        },
+        "en": {
+          "title": "Spider Solitaire: Classic Card",
+          "desc": "Classic offline Spider Solitaire with large cards, Winning Deals & Archie!"
+        },
+        "de": {
+          "title": "Spider Solitär: Große Karten",
+          "desc": "Klassisches Spider Solitär offline mit großen Karten & lösbaren Spielen!"
+        },
+        "es": {
+          "title": "Solitario Spider: Cartas Grand",
+          "desc": "Clásico Solitario Spider offline con números grandes y partidas ganadoras!"
+        },
+        "fr": {
+          "title": "Spider Solitaire: Grandes Cart",
+          "desc": "Spider Solitaire classique hors ligne : grands chiffres et donnes gagnantes !"
+        },
+        "pt": {
+          "title": "Paciência Spider: Cartas Grand",
+          "desc": "Paciência Spider clássico offline com números grandes e partidas vencedoras!"
+        },
+        "tr": {
+          "title": "Örümcek Solitaire: Büyük Kart",
+          "desc": "Büyük kartlı klasik çevrimdışı Örümcek Solitaire — 1, 2 ve 4 renk!"
+        },
+        "id": {
+          "title": "Spider Solitaire: Kartu Besar",
+          "desc": "Spider Solitaire offline klasik dengan kartu besar & tantangan harian!"
+        }
+      }
+    },
+    {
       "id": "ru.debia.nutsort",
       "title": "Гайки и Болты: Сортировка",
       "desc": "Сортируй цветные гайки, собирай 10 изобретений с Болтиком — 300 уровней офлайн!",
